@@ -1,4 +1,4 @@
-# do
+# Docker All
 
 ## Docker Image
 
@@ -707,4 +707,27 @@ services:
 volumes:
   anime:
 ```
+
+### Docker command table&#x20;
+
+| Command                                                               | Description                                  |
+| --------------------------------------------------------------------- | -------------------------------------------- |
+| `docker --version`                                                    | Check Docker version                         |
+| `docker build -t <name> .`                                            | Build a Docker image                         |
+| `docker run -d -p <host-port>:<container-port> --name <name> <image>` | Run a container                              |
+| `docker ps`                                                           | List running containers                      |
+| `docker ps -a`                                                        | List all containers (including stopped ones) |
+| `docker stop <container>`                                             | Stop a running container                     |
+| `docker rm <container>`                                               | Remove a container                           |
+| `docker pull <image>`                                                 | Pull an image from Docker Hub                |
+| `docker push <image>`                                                 | Push an image to Docker Hub                  |
+| `docker rmi <image>`                                                  | Remove a Docker image                        |
+| `docker volume create <name>`                                         | Create a volume                              |
+| `docker volume ls`                                                    | List all volumes                             |
+| `docker volume rm <name>`                                             | Remove a volume                              |
+| `docker exec -it <container> <command>`                               | Execute a command inside a running container |
+| `docker logs <container>`                                             | View logs of a container                     |
+| `docker inspect <container>`                                          | Inspect detailed container information       |
+| `docker images`                                                       | List all local Docker images                 |
+| `docker scan <image>`                                                 | Scan a Docker image for vulnerabilities      |
 
