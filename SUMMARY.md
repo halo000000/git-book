@@ -24,12 +24,8 @@
 
 * [HTMX](views/htmx.md)
 * [Alpine.js](views/alpine.js.md)
-* [Docker Beginner's Tutorial](views/docker-beginners-tutorial.md)
 
-## Group 1
+## Docker
 
-* [Page 1](group-1/page-1.md)
-
-***
-
-* [Docker All](do.md)
+* [Docker Beginner's Tutorial](docker/docker-beginners-tutorial.md)
+* [Docker All](docker/docker-all.md)

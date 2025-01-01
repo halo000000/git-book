@@ -464,7 +464,7 @@ ENV NODE_ENV=production
 CMD ["node", "app.js"]
 ```
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ```docker
 # set the base image to create the image for react app
