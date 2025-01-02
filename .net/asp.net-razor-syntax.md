@@ -152,7 +152,3 @@ The purpose of the file is to write common directives that our view pages need. 
 @using YourProject@namespace YourProject.Pages@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 ```
 
-### Learn more on Codecademy
-
-* CourseLearn ASP.NETLearn how to build fast, secure, and maintainable web apps with ASP.NET and the Razor Pages architecture.
-* Skill pathBuild Web Apps with ASP.NETJumpstart your career with this skill path, first by learning the C# language, then building web apps with ASP.NET Core and the Razor Pages.

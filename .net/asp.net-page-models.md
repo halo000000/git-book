@@ -202,7 +202,3 @@ For example, imagine the below code is from **About.cshtml**. Instead of `/About
 @page "Me"
 ```
 
-### Learn more on Codecademy
-
-* CourseLearn ASP.NETLearn how to build fast, secure, and maintainable web apps with ASP.NET and the Razor Pages architecture.
-* Skill pathBuild Web Apps with ASP.NETJumpstart your career with this skill path, first by learning the C# language, then building web apps with ASP.NET Core and the Razor Pages.
